@@ -9,7 +9,5 @@ I am proficient in Node.js and also capable of working with Python.
 If I have to describe myself, I will go with Crazy, Inspired and Curious. And I think being all those three forms my unique Personality.
  
 [🌐 My Website](https://www.dhanushg.com)
-
 [📷 Instagram](https://www.instagram.com/dna_shh)
-
 [🐦 Twitter](https://www.twitter.com/dna_shh)
