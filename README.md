@@ -10,7 +10,9 @@ I primarily focus on Backend Engineering and Server Side Architecture. I've also
 *   🖥️  See my portfolio at [https://dhanushg.com](http://dhanushg.com)
 *   🧠  I'm learning Web3 and Blockchain
 *   🤝  I'm open to collaborating on Interesting Backend Projects
-*   ⚡  A lot of my Personal Projects are Private as I'm building it.### Skills<p align="left">
+*   ⚡  A lot of my Personal Projects are Private as I'm building it.
+### Skills
+<p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
