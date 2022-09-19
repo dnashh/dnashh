@@ -7,7 +7,6 @@ I am an Enthusiast in Technology
 I primarily focus on Backend Engineering and Server Side Architecture. I've also worked in frontend, creating web scrapers, and writing automation scripts and bots.
 
 *   🌍  I'm based in Chennai, TamilNadu, India
-*   🖥️  See my portfolio at [https://dhanushg.com](http://dhanushg.com)
 *   🧠  I'm learning Web3 and Blockchain
 *   🤝  I'm open to collaborating on Interesting Backend Projects
 *   ⚡  A lot of my Personal Projects are Private as I'm building it.
